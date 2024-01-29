@@ -13,3 +13,6 @@ npx expo start
 3. We can use bottom tab navigator
 https://reactnavigation.org/docs/bottom-tab-navigator/
 
+# Jan 29 
+create screens and components folders and edit profile screen with some detail. 
+
