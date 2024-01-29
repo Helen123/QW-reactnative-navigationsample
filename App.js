@@ -8,10 +8,10 @@ import OtherNavigator from "./navigation/OtherNavigate";
 
 export default function App() {
   const [user, setUser] = useState(null);
-  useEffect(() => {
-    // This will run only once, when the component is mounted
-    setUser("something");
-  }, []);
+  // useEffect(() => {
+  //   // This will run only once, when the component is mounted
+  //   setUser("something");
+  // }, []);
   return (
     <NavigationContainer>
         {user ? (
